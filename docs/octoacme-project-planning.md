@@ -15,6 +15,11 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Coordinate with cross-functional roles:
+   - UX/UI Designers: identify design requirements and user research needs
+   - Data Analysts: define tracking and instrumentation requirements
+   - Release Manager: align on release windows and deployment constraints
+   - Support Lead: plan for customer-facing documentation and support readiness
 
 ## Backlog Item Template
 - Title:

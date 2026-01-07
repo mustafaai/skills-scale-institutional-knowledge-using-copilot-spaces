@@ -12,6 +12,7 @@ This README provides a single entrypoint to OctoAcme's project management proces
 - [Release &amp; Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective &amp; Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles &amp; Personas](octoacme-roles-and-personas.md)
+- [Role-Specific Onboarding Checklists](octoacme-role-onboarding-checklist.md)
 
 ## Brief Overview of OctoAcme Project Management Processes
 - Lifecycle: Initiation → Planning → Execution → Release → Close &amp; Retrospective
