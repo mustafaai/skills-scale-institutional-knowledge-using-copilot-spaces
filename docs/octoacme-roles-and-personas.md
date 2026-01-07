@@ -26,6 +26,13 @@ Developers design, build, test, and deliver software components. They collaborat
 - PR descriptions and code review comments
 - Technical design docs when needed
 
+### Key Interactions
+- **Product Managers**: Clarify requirements, acceptance criteria, and validate implemented features
+- **UX/UI Designers**: Collaborate on design implementation feasibility and review UI components
+- **Project Managers**: Provide effort estimates, report progress, and escalate blockers
+- **Data Analysts**: Implement instrumentation and event tracking for metrics collection
+- **Release Managers**: Coordinate code freezes, branch management, and deployment readiness
+
 ---
 
 ## Product Managers
@@ -48,6 +55,13 @@ Product Managers define what should be built to deliver customer and business va
 - Weekly alignment with PM and engineering leads
 - Roadmap updates and stakeholder briefings
 - Acceptance criteria and feature specs
+
+### Key Interactions
+- **Developers**: Define requirements, validate implementations, and make scope trade-offs
+- **UX/UI Designers**: Align on user needs, review designs, and prioritize design work
+- **Project Managers**: Coordinate on timelines, dependencies, and stakeholder communication
+- **Data Analysts**: Define success metrics, review performance data, and prioritize based on insights
+- **Support Lead**: Collect customer feedback, prioritize issues, and plan customer-facing improvements
 
 ---
 
@@ -72,6 +86,14 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Weekly status updates and stakeholder reports
 - Risk registers and decision logs
 - Coordination via project boards and meeting facilitation
+
+### Key Interactions
+- **Product Managers**: Align on priorities, timelines, and resource allocation
+- **Developers**: Track progress, remove blockers, and coordinate delivery
+- **Release Managers**: Coordinate release schedules, manage dependencies, and plan deployments
+- **UX/UI Designers**: Track design deliverables and integrate design timelines into project plans
+- **Data Analysts**: Monitor project metrics and incorporate data insights into status reports
+- **Support Lead**: Coordinate on customer-impacting changes and incident response
 
 ---
 
