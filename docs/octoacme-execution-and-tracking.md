@@ -22,11 +22,16 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- UX/UI Designer review for user-facing changes
+- Accessibility testing for customer-facing features
+- Data instrumentation validation with Data Analyst
 
 ## Reporting & Metrics
 - Track velocity and burndown
 - Monitor success metrics identified in the Project One-pager
-- Use dashboards for key signals (errors, latency, usage)
+- Use dashboards for key signals (errors, latency, usage) — maintained by Data Analyst
+- Review UX metrics (user satisfaction, task completion rates) with UX/UI Designer
+- Track support ticket trends and resolution times with Support Lead
 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup
